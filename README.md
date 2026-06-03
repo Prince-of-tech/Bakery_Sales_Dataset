@@ -51,8 +51,6 @@ This Excel-based project analyzes bakery sales performance using an interactive 
 
 ![Bakery Sales Dashboard](https://github.com/Prince-of-tech/Bakery_Sales_Dataset/blob/main/Bakery%20Sales%20Dashboard.png)
 
-*(Replace with your actual image path or GitHub upload link)*
-
 ---
 
 ## 📊 Dashboard Features
